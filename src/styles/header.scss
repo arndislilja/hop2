@@ -1,0 +1,19 @@
+/*.header { /* stylelint-disable-line */
+  //background-image: url("./img/header.jpg");
+//}
+
+.header {
+	background: url(../img/header.jpg) 50% 50%;
+	background-size: cover;
+
+.header__title {
+	//	font-family: $font_family_1;
+		font-size: 3.75rem;
+		font-weight: 600;
+		text-align: center;
+	}
+.headertext {
+		//font-family: $font_family_2;
+		text-align: center;
+	}
+}
