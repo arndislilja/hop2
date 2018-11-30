@@ -35,5 +35,8 @@
     "rollup-plugin-babel": "^4.0.3",
     "stylelint": "^9.7.1",
     "stylelint-config-primer": "^2.2.11"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
   }
 }
